@@ -1,0 +1,35 @@
+ctrl + k + s                    = keyboard shortcuts
+ctrl + g                        = go to line(n)
+ctrl + ]                        = indent line
+ctrl + [                        = remove indent 
+ctrl + enter                    = add line below
+ctrl + shift + enter            = add line above
+ctrl + /                        = // comment
+ctrl + p                        = search a file
+ctrl + shift + p                = open palette
+ctrl + shift + e                = go to workspace
+ctrl + (num)                    = go to file
+ctrl + tab                      = go to last opened file
+ctrl + alt                      = add cursor
+ctrl + shift + alt + n		    = new file(modified in keybind setting)
+ctrl + shift + alt + f		    = new folder(modified in keybind setting)
+
+alt + DownArrow                 = Move line down
+alt + UpArrow                   = Move line Up
+alt + L + O                     = open live server
+
+shift + Right/left/down/upArrow = Expand selection(or highlight)
+shift + alt + DownArrow         = Copy line down
+shift + alt + UpArrow           = Copy line up
+
+esc                             = undo cursor
+
+html
+! + enter                       = doctype shortcut
+(Element) + * + (n) + enter     = E.g. div*8
+
+C++
+# + i + enter                   = cpp shortcut(snippet)
+shift + alt + A                 = /* comment
+ctrl + z ctrl + x               = kill terminal(modified in keybind setting)
+ctrl + alt + n                  = run terminal
