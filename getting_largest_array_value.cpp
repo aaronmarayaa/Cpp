@@ -4,15 +4,12 @@ using namespace std;
 void largestValueOfArray(int arr[], int num){
   int max = 0;
     for(int j = 0; j < num; j++){
-      for(int k = 0; k < num; k++){
-        if(max < arr[k]){
-          max = arr[k];
+        if(max < arr[j]){
+          max = arr[j];
         }
-      }
     }
   cout << "\nlargest array value is " << max;
 }
-
 
 int main() {
   cout << "Enter how many value: ";
